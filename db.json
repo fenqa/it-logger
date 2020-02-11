@@ -1,11 +1,11 @@
 {
   "logs": [
     {
-      "message": "Change network card on 00090",
-      "attention": true,
+      "id": 1,
+      "message": "Change network card fixed 000202",
+      "attention": false,
       "tech": "Sam Smith",
-      "date": "2020-02-11T15:41:41.720Z",
-      "id": 1
+      "date": "2020-02-11T16:22:16.166Z"
     },
     {
       "message": "Hard drive failed at 3424",
@@ -13,13 +13,6 @@
       "tech": "Sara Wilson",
       "date": "2020-02-11T15:41:57.526Z",
       "id": 2
-    },
-    {
-      "message": "Router blew up",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2020-02-11T15:42:15.184Z",
-      "id": 3
     }
   ],
   "techs": [
